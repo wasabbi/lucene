@@ -2,7 +2,7 @@
 search engine with lucene
 
 ## 환경:
-1. jee2018-09, tomcatv8.5
+1. jee2018-09, tomcatv8.5, JDK 8u191
 2. 내재돼있는 jar파일을 BuildPath에 추가.
 
 ## 소개
